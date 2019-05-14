@@ -1,0 +1,7 @@
+C:\Users\Cagatay\Desktop\lab11\lab11\bin\Debug\lab11.exe.config
+C:\Users\Cagatay\Desktop\lab11\lab11\bin\Debug\lab11.exe
+C:\Users\Cagatay\Desktop\lab11\lab11\bin\Debug\lab11.pdb
+C:\Users\Cagatay\Desktop\lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\Cagatay\Desktop\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay\Desktop\lab11\lab11\obj\Debug\lab11.exe
+C:\Users\Cagatay\Desktop\lab11\lab11\obj\Debug\lab11.pdb
