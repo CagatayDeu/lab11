@@ -1,0 +1,10 @@
+Selin,305,85,10.11.2016,Matematik
+Faruk,285,85,10.11.2016,Kimya
+Nimet,290,85,10.11.2016,Fizik
+Ali,330,85,10.11.2016,Biyoloji
+Ahmet,550,85,10.11.2016,Matematik
+Mehmet,210,85,10.11.2016,Istatistik
+Ayþe,505,85,10.11.2016,Kimya
+Fatma,490,85,10.11.2016,Iktisat
+Sude,105,85,10.11.2016,Molekuler
+Kerem,500,85,10.11.2016,Matematik
